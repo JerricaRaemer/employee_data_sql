@@ -1,4 +1,4 @@
-# SQL:
+# SQL Data Management:
 
 > This project creates and edits tables in SQL, including inner joins.
 >
